@@ -1,11 +1,11 @@
 var cantidadDeVentanasEnMiCasa = 13;
-console.log(cantidadDeVentanasEnMiCasa);
+console.log("La cantidad de ventanas en mi casa es =", cantidadDeVentanasEnMiCasa);
 
 var soyHumano = true;
-console.log(soyHumano);
+console.log("El valor de la variable soyHumano es =", soyHumano);
 
 var miGustoDePizzaPreferido = "napolitana";
-console.log(miGustoDePizzaPreferido);
+console.log("Mi gusto preferido de pizza es ", miGustoDePizzaPreferido);
 
 var varUnica = false;
 console.log(varUnica);
