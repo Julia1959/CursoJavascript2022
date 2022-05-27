@@ -1,0 +1,10 @@
+
+Cómo manejar la precisión de los números de punto flotante.
+
+http://puntoflotante.org/
+
+https://study.com/academy/lesson/numeric-data-types-in-c-programming.html
+
+http://adripofjavascript.com/blog/drips/avoiding-problems-with-decimal-math-in-javascript.html
+
+https://en.wikipedia.org/wiki/IEEE_754
